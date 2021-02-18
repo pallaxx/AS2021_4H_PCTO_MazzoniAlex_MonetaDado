@@ -1,0 +1,21 @@
+#BordoGenerale
+{
+    border: 1px solid black;
+    padding: 20px;
+}
+body
+{
+    padding: 100px;
+}
+ul
+{
+    list-style: none;
+}
+#bottoneinvio
+{
+    margin: 20px;
+}
+#cristina
+{
+    margin-left: 25px;
+}
